@@ -1,0 +1,7 @@
+{
+  "name": "tripsapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
